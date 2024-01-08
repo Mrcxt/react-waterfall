@@ -1,1 +1,1 @@
-# @anys/template
+# @anys/react-waterfall
